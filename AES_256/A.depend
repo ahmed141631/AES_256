@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1679064142 source:c:\users\lenovo\desktop\aes\a\aes.cpp
+	"AES.h"
+	<iostream>
+	<stdlib.h>
+
+1679064122 c:\users\lenovo\desktop\aes\a\aes.h
+	<vector>
+
+1679065423 source:c:\users\lenovo\desktop\aes\a\encrypt.cc
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"AES.h"
+
+1679064824 source:c:\users\lenovo\desktop\aes\a\decrypt.cc
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"AES.h"
+
